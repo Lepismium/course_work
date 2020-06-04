@@ -1,0 +1,13 @@
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\bin\Debug\netcoreapp3.1\football.exe
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\bin\Debug\netcoreapp3.1\football.deps.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\bin\Debug\netcoreapp3.1\football.runtimeconfig.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\bin\Debug\netcoreapp3.1\football.runtimeconfig.dev.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\bin\Debug\netcoreapp3.1\football.dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\bin\Debug\netcoreapp3.1\football.pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.csprojAssemblyReference.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.csproj.CoreCompileInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.AssemblyInfoInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.AssemblyInfo.cs
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\курсач\football\football\obj\Debug\netcoreapp3.1\football.genruntimeconfig.cache
